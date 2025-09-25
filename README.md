@@ -32,5 +32,49 @@
 ## CV - Mobile
 <img width="245" height="566" alt="Screenshot 2025-09-25 213729" src="https://github.com/user-attachments/assets/5822fdd5-4129-4ff5-a228-5127b4be5f47" />
 
+## Deskripsi
+Proyek sederhana HTML + CSS yang menampilkan :
+1. Landing page bertema Joko Widodo (hero section dengan gambar dan perkenalan singkat, about section berisi latar belakang, grid kartu my projects menampilkan proyek terlaksana, dan contact section berisi tombol interaktif).
+2. Creative CV modern. 
 
+## Struktur Proyek
+.
+│── cv.html      // Halaman CV (foto profil, deskripsi, kontak, riwayat pendidikan,  
+│── index.html   // Halaman utama (navbar, tokoh, projects, kontak)
+│── README.md    // Dokumentasi proyek
+│── style.css    // Styling semua halaman
+│
+└───asset        // Gambar yang digunakan dalam proyek
+        foodestate.jpg
+        hilirasinikel.jpg
+        ikn.jpg
+        kartuindonesiapintar.jpg
+        placeholder
+        revolusimental.jpg
+        transjawa.jpeg
 
+## Cara Menjalankan
+1. Buka di browser
+   -Klik kanan pada file ``index.html``.
+   -Pilih Open with → lalu pilih browser yang kamu pakai (misalnya Chrome, Edge, atau Firefox).
+2. Navigasi menggunakan navbar
+   -Klik "home", "about", "project", "contact" untuk melihat halaman utama.
+3. Klik "View Project" untuk menuju web asli proyek. 
+4. Tombol "Check My CV" untuk menuju halaman ``cv.html``
+5. Klik ikon media sosial pada ``index.html`` dan ``cv.html`` untuk menuju akun milik tokoh.
+Tidak perlu install apapun karena proyek ini murni HTML + CSS, jadi langsung jalan tanpa setup tambahan.
+
+## Fitur Utama
+1. Navbar sederhana dengan tautan navigasi ke section berbeda.
+2. Hero section berisi gambar utama dan teks perkenalan.
+3. Section About menampilkan deskripsi diri dengan gaya tipografi rapi.
+4. Grid kartu konten yang menampilkan beberapa proyek disertai efek hover.
+5. Halaman CV terpisah dengan tampilan modern dan responsif.
+6. Tautan media sosial asli klik langsung untuk membuka Instagram, X, dan Facebook. 
+7. Desain responsif menggunakan media queries.
+
+## Teknologi
+1. HTML5, CSS3 – struktur halaman dan styling custom, tanpa framework JavaScript.
+2. Google Fonts (Fira Code) – digunakan untuk tipografi utama.
+3. Font Awesome 6.4.0 – untuk ikon sosial media dan ikon kontak.
+4. CSS Animation – efek background gradien animasi (nebula animation).
