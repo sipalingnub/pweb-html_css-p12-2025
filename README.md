@@ -39,19 +39,18 @@ Proyek sederhana HTML + CSS yang menampilkan :
 
 ## Struktur Proyek
 .
-│── cv.html      // Halaman CV (foto profil, deskripsi, kontak, riwayat pendidikan,  
-│── index.html   // Halaman utama (navbar, tokoh, projects, kontak)
-│── README.md    // Dokumentasi proyek
-│── style.css    // Styling semua halaman
-│
-└───asset        // Gambar yang digunakan dalam proyek
-        foodestate.jpg
-        hilirasinikel.jpg
-        ikn.jpg
-        kartuindonesiapintar.jpg
-        placeholder
-        revolusimental.jpg
-        transjawa.jpeg
+├─ index.html       // Halaman utama (navbar, tokoh, projects, kontak)
+├─ cv.html          // Halaman CV (foto profil, deskripsi, kontak, riwayat pendidikan)
+├─ style.css        // Styling global untuk semua halaman
+├─ README.md        // Dokumentasi proyek
+└─ asset/         // Gambar yang digunakan dalam proyek
+   ├─ foodestate.jpg
+   ├─ hilirasinikel.jpg
+   ├─ ikn.jpg
+   ├─ kartuindonesiapintar.jpg
+   ├─ placeholder.jpg
+   ├─ revolusimental.jpg
+   └─ transjawa.jpeg
 
 ## Cara Menjalankan
 1. Buka di browser
