@@ -38,6 +38,7 @@ Proyek sederhana HTML + CSS yang menampilkan :
 2. Creative CV modern. 
 
 ## Struktur Proyek
+```
 .
 ├─ index.html       // Halaman utama (navbar, tokoh, projects, kontak)
 ├─ cv.html          // Halaman CV (foto profil, deskripsi, kontak, riwayat pendidikan)
@@ -51,6 +52,7 @@ Proyek sederhana HTML + CSS yang menampilkan :
    ├─ placeholder.jpg
    ├─ revolusimental.jpg
    └─ transjawa.jpeg
+```
 
 ## Cara Menjalankan
 1. Buka di browser
